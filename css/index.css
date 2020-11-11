@@ -1,0 +1,24 @@
+:root {
+    --color-divider: hsl(240, 5%, 91%);
+    --color-text-titles: hsl(238, 29%, 16%);
+    --color-text-question: hsl(237, 12%, 33%);
+    --color-text-answer: hsl(240, 6%, 50%);
+    --color-arrow: hsl(14, 88%, 65%);
+    --color-background-one: hsl(273, 75%, 66%);
+    --color-background-two: hsl(240, 73%, 65%);
+    --font-size-default: 12px;
+    --font-primary: "KumbhSans-Regular";
+    --font-secundary: "KumbhSans-Bold";
+}
+
+/* - Mobile: 375px
+- Desktop: 1440px */
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
